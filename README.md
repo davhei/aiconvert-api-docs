@@ -70,6 +70,7 @@ Subscribers receive a webhook payload structured as follows when a new form subm
   "summary": "Mike, the CEO of VistaLens Studios, is seeking a software solution to efficiently manage, edit, and deliver high-resolution images for their commercial photography projects. The current workflow challenges are impacting their turnaround times and business profitability. The ideal software would be a simple integrated solution with advanced image editing, efficient digital asset management, and seamless client gallery integration. The budget allocated for the project is $75,000 to $150,000, and the decision-makers are Mike and the studio manager.",
   "submitted_at": "2024-04-15 14:35:00"
 }
+```
 
 ## Errors
 
